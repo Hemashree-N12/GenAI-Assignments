@@ -1,4 +1,6 @@
-# LangChain Offline Demo (v1.2.15)
+Medium Blog Link: https://medium.com/@hemashree.n7714/langchain-decoded-building-modular-llm-applications-with-chains-agents-and-memory-a9243f4032a9
+
+# LangChain Offline Demo 
 
 This repository contains a Jupyter Notebook demonstrating LangChain concepts **without requiring API keys**.  
 It uses `FakeListLLM` for offline responses and HuggingFace embeddings for local vector search.
